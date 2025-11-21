@@ -1,0 +1,196 @@
+{
+  "data_siswa": [
+    {
+      "nama": "Afan",
+      "transaksi": [
+        {
+          "tanggal": "2025-11-21 03:09:22",
+          "jenis": "setor",
+          "jumlah": 100000.0,
+          "keterangan": "Setoran Tunai"
+        }
+      ],
+      "saldo": 100000.0
+    },
+    {
+      "nama": "Andi",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Arka",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Aulyau",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Bagus",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Darel",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Desi",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Fadhil",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Galih",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Habib",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Hafizd",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Kevin",
+      "transaksi": [
+        {
+          "tanggal": "2025-11-21 00:59:48",
+          "jenis": "setor",
+          "jumlah": 10000.0,
+          "keterangan": "Setoran Tunai"
+        }
+      ],
+      "saldo": 10000.0
+    },
+    {
+      "nama": "Lucky",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Mia",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Naufal",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Nofal",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Rafa",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Rafi",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Rafif",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Rakha",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Reyhan",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Reyza",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Ria",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Ridho",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Riska",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Riski",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Safa",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Sulis",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Tyas",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Usnia",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Yoga",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Zhen",
+      "transaksi": [],
+      "saldo": 0
+    },
+    {
+      "nama": "Zumar",
+      "transaksi": [],
+      "saldo": 0
+    }
+  ],
+  "pengeluaran_umum": [
+    {
+      "tanggal": "2025-11-21 02:44:35",
+      "keterangan": "Biaya Fotokopi",
+      "jumlah": 10000.0
+    },
+    {
+      "tanggal": "2025-11-21 03:18:01",
+      "keterangan": "Biaya Kegiatan",
+      "jumlah": 10000.0
+    }
+  ],
+  "terakhir_update": "2025-11-21 07:52:37"
+}
